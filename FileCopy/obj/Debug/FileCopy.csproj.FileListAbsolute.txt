@@ -1,0 +1,9 @@
+D:\C#\FileCopy\FileCopy\bin\Debug\FileCopy.exe.config
+D:\C#\FileCopy\FileCopy\bin\Debug\FileCopy.exe
+D:\C#\FileCopy\FileCopy\bin\Debug\FileCopy.pdb
+D:\C#\FileCopy\FileCopy\obj\Debug\FileCopy.csprojResolveAssemblyReference.cache
+D:\C#\FileCopy\FileCopy\obj\Debug\FileCopy.FileCopy.resources
+D:\C#\FileCopy\FileCopy\obj\Debug\FileCopy.Properties.Resources.resources
+D:\C#\FileCopy\FileCopy\obj\Debug\FileCopy.csproj.GenerateResource.Cache
+D:\C#\FileCopy\FileCopy\obj\Debug\FileCopy.exe
+D:\C#\FileCopy\FileCopy\obj\Debug\FileCopy.pdb
