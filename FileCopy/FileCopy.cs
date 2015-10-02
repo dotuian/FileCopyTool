@@ -38,10 +38,6 @@ namespace FileCopy
             // 进度条不显示
             progressBar.Hide();
 
-
-            txtSource.Text = @"c:\";
-            txtDestination.Text = @"d:\";
-            txtFileList.Text = "1\r\n2\r\n2\r\n2\r\n2\r\n2\r\n2\r\n2\r\n2\r\n2\r\n2\r\n2\r\n2\r\n2";
         }
 
         /// <summary>
