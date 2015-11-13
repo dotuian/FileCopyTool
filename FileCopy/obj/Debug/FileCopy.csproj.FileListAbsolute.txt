@@ -16,3 +16,12 @@ C:\FileCopyTool\FileCopy\obj\Debug\FileCopy.Properties.Resources.resources
 C:\FileCopyTool\FileCopy\obj\Debug\FileCopy.csproj.GenerateResource.Cache
 C:\FileCopyTool\FileCopy\obj\Debug\FileCopy.exe
 C:\FileCopyTool\FileCopy\obj\Debug\FileCopy.pdb
+C:\Users\SHOU\Documents\GitHubVisualStudio\FileCopyTool\FileCopy\bin\Debug\FileCopy.exe.config
+C:\Users\SHOU\Documents\GitHubVisualStudio\FileCopyTool\FileCopy\bin\Debug\FileCopy.exe
+C:\Users\SHOU\Documents\GitHubVisualStudio\FileCopyTool\FileCopy\bin\Debug\FileCopy.pdb
+C:\Users\SHOU\Documents\GitHubVisualStudio\FileCopyTool\FileCopy\obj\Debug\FileCopy.csprojResolveAssemblyReference.cache
+C:\Users\SHOU\Documents\GitHubVisualStudio\FileCopyTool\FileCopy\obj\Debug\FileCopy.FileCopy.resources
+C:\Users\SHOU\Documents\GitHubVisualStudio\FileCopyTool\FileCopy\obj\Debug\FileCopy.Properties.Resources.resources
+C:\Users\SHOU\Documents\GitHubVisualStudio\FileCopyTool\FileCopy\obj\Debug\FileCopy.csproj.GenerateResource.Cache
+C:\Users\SHOU\Documents\GitHubVisualStudio\FileCopyTool\FileCopy\obj\Debug\FileCopy.exe
+C:\Users\SHOU\Documents\GitHubVisualStudio\FileCopyTool\FileCopy\obj\Debug\FileCopy.pdb

@@ -68,13 +68,12 @@ namespace FileCopy
             int successedCount = 0;
             int failedCount = 0;
             foreach (string file in files) {
+                progressBar.Value = ++totalCount;
 
                 if (String.IsNullOrEmpty(file)) {
                     txtResult.Text += "\r\n";
                     continue;
                 }
-
-                progressBar.Value = ++totalCount;
 
                 string sourceFileName = sourcePath + file;
                 string destFileName = destinationPath + file;
